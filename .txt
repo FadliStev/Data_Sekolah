@@ -1,0 +1,15 @@
+****************************************
+	SMP Negeri 12 Sragen
+****************************************
+Wali Kelas : Pak Joko
+Kelas Siswa				= A
+Nama Siswa				= fad 
+Nomor Induk Siswa			= 21
+Jenis Kelamin Siswa		= l
+Alamat Siswa			= mojo
+Wali Kelas : Ibu Sinta
+Kelas Siswa				= D
+Nama Siswa				= sa 
+Nomor Induk Siswa			= 23
+Jenis Kelamin Siswa		= p
+Alamat Siswa			= lp

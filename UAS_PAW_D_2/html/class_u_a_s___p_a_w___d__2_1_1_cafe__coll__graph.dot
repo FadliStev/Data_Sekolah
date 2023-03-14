@@ -1,0 +1,7 @@
+digraph "UAS_PAW_D_2.Cafe"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{UAS_PAW_D_2.Cafe\n|+ JmlhPesanMakan1\l+ JmlhPesanMinumA\l+ JmlhPesanMakan2\l+ JmlhPesanMinumB\l+ TotalhargapesanMakan\l+ totalhargapesanMinum\l+ totalhargapesanMakan2\l+ totalhargapesanMinumA\l+ bayar\l+ kembalian\l+ NamaPelanggan\l+ NamaKasir\l|+ nama()\l+ Nasigoreng()\l+ HitungNasiGoreng()\l+ Miegoreng()\l+ HitungMieGoreng()\l+ Esteh()\l+ HitungEsteh()\l+ TehHangat()\l+ HitungTehHangat()\l+ Pelangganbayar()\l+ KembalianPelanggan()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+}
